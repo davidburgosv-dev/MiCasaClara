@@ -1,5 +1,7 @@
 # Comprobaciones del formulario
 
+Este documento registra la primera revisión del formulario. La [revisión del issue #1](revision-issue-1.md) añade los resultados en Chrome y las capturas del prototipo actualizado.
+
 Fecha: 2026-11-17. Alcance: foco entre pasos y prevención del descarte accidental.
 Base: commit 062a310 de main. Rama: pablo/foco-proteccion-formulario.
 
