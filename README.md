@@ -2,7 +2,7 @@
 
 **Universidad Mayor — Interacción Humano Computador — Evaluación sumativa, Unidad 2**
 
-**Integrantes:** David Burgos Vargas, Felipe Faria y Pablo Gonzales.
+**Integrantes:** David Burgos Vargas, Felipe Farías y Pablo González.
 
 ## Presentación del proyecto
 
