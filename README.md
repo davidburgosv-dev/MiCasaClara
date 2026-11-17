@@ -25,6 +25,10 @@ Diseñar una interfaz móvil de registro de observaciones que priorice accesibil
 
 La metáfora de interfaz es una **ficha de inspección guiada por habitaciones**. Divide la tarea en decisiones pequeñas y utiliza etiquetas cercanas al lenguaje cotidiano.
 
+## Arquitectura de información y flujo de usuario
+
+La organización de contenidos, las etiquetas principales y el recorrido para registrar y consultar observaciones están documentados en detalle en [`docs/Arquitectura_Informacion_y_Flujo.md`](docs/Arquitectura_Informacion_y_Flujo.md), que incluye el mapa de contenidos, el inventario de etiquetas, los flujos de registro y consulta, y una revisión de la claridad de las pantallas, los botones y los pasos con sus oportunidades de mejora. La estructura es poco profunda, con tres secciones principales, Inicio, Mis registros y Ayuda, y un asistente de cuatro pasos que mantiene a la persona a uno o dos toques de su objetivo.
+
 ## Ejecución del prototipo
 
 1. Abrir el archivo `MiCasaClara.html` en un navegador actual, preferentemente desde un equipo o teléfono.
@@ -69,9 +73,11 @@ El repositorio conserva los documentos del proyecto y permite consultar las vers
 | `MiCasaClara.html` | Prototipo interactivo ejecutable para dispositivos móviles. |
 | `README.md` | Descripción, ejecución, alcance y documentación técnica. |
 | `Resumen_MiCasa_Clara.md` | Síntesis y matriz de trazabilidad de la rúbrica. |
+| `docs/Arquitectura_Informacion_y_Flujo.md` | Mapa de contenidos, etiquetas, flujo de usuario y revisión de claridad (apartado 6). |
 
 ## Referencias
 
 - Universidad Mayor. (2026). *Ficha de actividad: Interacción Humano Computador, Unidad 2* [material de asignatura].
 - World Wide Web Consortium. (2023). *Web Content Accessibility Guidelines (WCAG) 2.2*. https://www.w3.org/TR/WCAG22/
 - Nielsen, J. (1994). *10 usability heuristics for user interface design*. Nielsen Norman Group. https://www.nngroup.com/articles/ten-usability-heuristics/
+
